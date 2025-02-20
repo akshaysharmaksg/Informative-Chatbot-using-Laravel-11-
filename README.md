@@ -1,7 +1,7 @@
 #Informative Chatbot using Laravel 11
 # 🤖 **Informative Chatbot using Laravel 11**
 
-An intelligent, dynamic chatbot system built with Laravel 11, React, PHP 8.2, and MySQL. This project provides fast, accurate, and real-time responses to user queries, making it perfect for websites, customer support platforms, and educational portals.
+An intelligent, dynamic chatbot system built with Laravel 11, blade ,React, PHP 8.2, and MySQL. This project provides fast, accurate, and real-time responses to user queries, making it perfect for websites, customer support platforms, and it is made for good working  portals.
 
 ---
 
